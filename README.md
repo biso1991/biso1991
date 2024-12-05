@@ -3,7 +3,10 @@ Results-driven Data Engineer with 3+ years of expertise in developing scalable w
 
 ## You can follow me here
 
-[![https://www.linkedin.com/in/bilel-n-2b9ba8215/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-hosni-b2960b135/)
+[![https://www.linkedin.com/in/bilel-n-2b9ba8215/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilel-n-2b9ba8215/)
+
+---
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bilelnasri)
 
 ## You can find my projects here:
