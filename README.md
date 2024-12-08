@@ -12,3 +12,15 @@ Results-driven Data Engineer with 3+ years of expertise in developing scalable w
 ## You can find my projects here:
 
 ## [Data Engineer Portoflio](https://github.com/biso1991/-Data-engineer-Portofolio)
+
+## **Connect with me :**
+
+---
+
+| account                                                | summary |
+| :------------------------------------------------------ | ------- |
+| [Linkedin](https://www.linkedin.com/in/bilel-n-2b9ba8215/) |         |
+| [Kaggle](https://www.kaggle.com/bilelnasri)                |         |
+| [GitLab](https://gitlab.com/bisonasri1991/)                |         |
+| [Twitter](https://x.com/bilelnasri20)                      |         |
+| FaceBook                                                |         |
