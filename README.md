@@ -153,15 +153,26 @@ class BilelNasri:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-![Bilel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biso1991&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+### 💻 Technical Focus
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biso1991&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+```text
+Python           ████████████████████░░░░░  80%
+JavaScript       ████░░░░░░░░░░░░░░░░░░░░░  15%
+Shell Scripts    █░░░░░░░░░░░░░░░░░░░░░░░░   5%
+```
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biso1991&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
+### 🔥 Current Stack
+**Most Used:** Python • FastAPI • Django • Kafka • Docker  
+**Learning:** LangChain • LangGraph • Advanced RAG Patterns
+
+### 📊 Key Metrics
+🎯 **15+ Projects** | ⭐ **Active Contributor** | 🚀 **3+ Years Experience**
+
+<sub>💡 Stats will auto-populate within 24 hours as GitHub indexes the profile</sub>
 
 </div>
 
