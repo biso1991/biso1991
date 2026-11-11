@@ -117,39 +117,50 @@ class BilelNasri:
 
 ## 🏆 Featured Projects
 
-### 🎯 [TikTok Influencer Intelligence Platform](https://github.com/biso1991/tiktok-influencer-intel)
+### 🎯 TikTok Influencer Intelligence Platform
 **Distributed data acquisition with Kafka orchestration**
 - 🔥 Kafka-based pipeline with worker pools and retry mechanisms
 - ⚡ Cross-process synchronization with asyncio and file locks
 - 📊 Observability stack: Prometheus, Grafana, Jaeger, Loki
 - **Tech:** FastAPI, Kafka, Redis, Docker, Playwright, PostgreSQL
+- 📁 *Local project - Available upon request*
 
-### 🤖 [RAG System with Haystack](https://github.com/biso1991/haystack-rag-pipeline)
+### 🤖 RAG System with Haystack
 **Retrieval-Augmented Generation for contextual AI**
 - 🧠 Advanced RAG pipeline with document indexing
 - 🔍 Semantic search with embedding models
 - 📚 Multi-source knowledge integration
 - **Tech:** Haystack, Elasticsearch, FastAPI, Python
+- 📁 *Local project - Available upon request*
 
-### 📊 [Real-Time Sales Analytics Dashboard](https://github.com/biso1991/real-time-analytics)
+### 📊 Real-Time Sales Analytics Dashboard
 **Streaming ETL pipeline with live visualization**
 - ⚡ Real-time data processing with Kafka and Spark
 - 📈 WebSocket-based live dashboard
 - 🔄 Airflow orchestration for ETL workflows
 - **Tech:** Django, Airflow, Kafka, Spark, PostgreSQL, Redis
+- 📁 *Local project - Available upon request*
 
-### 🛒 [Agricultural E-Commerce Platform](https://github.com/biso1991/agri-ecommerce)
-**Marketplace with NLP-powered search**
-- 🔍 NLP-based product search with spaCy
+### 🛒 [Agricultural Marketplace Platform](https://github.com/biso1991/agricultural-marketplace-platform)
+**E-commerce platform for agricultural products**
+- 🔍 Product catalog and search functionality
 - 🚀 RESTful APIs with Django REST Framework
-- 💬 Real-time features with WebSockets
-- **Tech:** Django, PostgreSQL, Redis, spaCy, Docker
+- 💬 Real-time features and notifications
+- **Tech:** Django, PostgreSQL, Redis, Docker
 
-### 🌐 [Web Scraping Methods Comparison](https://github.com/biso1991/web-scraping-methods-comparison-python)
-**Comprehensive comparison of scraping techniques**
-- 🔧 5+ scraping methods (BeautifulSoup, Scrapy, Selenium, Playwright)
-- 📊 Performance benchmarks and use case analysis
-- **Tech:** Python, BeautifulSoup, Scrapy, Selenium, Playwright
+### 🌐 [Airflow Data Scraping Pipeline](https://github.com/biso1991/airflow-data-scraping-pipeline)
+**Automated data extraction workflow**
+- 🔧 Airflow DAGs for orchestration
+- 📊 Scalable scraping architecture
+- 🔄 Scheduled data collection
+- **Tech:** Apache Airflow, Python, PostgreSQL
+
+### 📚 [Advanced NLP Project](https://github.com/biso1991/advanced-nlp-project)
+**Natural Language Processing applications**
+- 🧠 Text classification and sentiment analysis
+- 📝 NLP model training and fine-tuning
+- 🔍 Advanced language understanding techniques
+- **Tech:** Python, PyTorch, Transformers, NLP Libraries
 
 ---
 
