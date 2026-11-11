@@ -155,10 +155,13 @@ class BilelNasri:
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-00ADD8?style=for-the-badge&logo=probot&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Observability
+### Observability & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Jaeger](https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 </div>
 
@@ -258,7 +261,7 @@ Shell/SQL/Other     █░░░░░░░░░░░░░░░   5%
 
 **System Administration:** Linux Server Configuration • Nginx • SSL/TLS • System Troubleshooting • Performance Optimization • Security Configuration
 
-**Observability:** Prometheus • Grafana • Jaeger • Loki • Distributed Tracing • Structured Logging • Metrics & Alerting
+**Observability:** Prometheus • Grafana • Jaeger • Loki • Distributed Tracing • Structured Logging • Metrics & Alerting • ELK Stack (Elasticsearch • Logstash • Kibana)
 
 </div>
 
