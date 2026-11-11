@@ -25,7 +25,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://biso1991.github.io/Myprofile/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binasri1991@gmail.com)
 
-📍 Ghazala, Ariana, Tunisia | 💼 **Freelancer | Open to Opportunities**
+📍 Ariana, Tunisia | 📱 +216 96 321 618 | 💼 **Freelancer | Open to Opportunities**
 
 </div>
 
@@ -33,48 +33,74 @@
 
 ## 🚀 About Me
 
-I'm a **Data Engineer** and **AI Engineer** with **3+ years of experience** building **distributed data pipelines**, **Kafka-based systems**, and **AI-powered applications**. I specialize in turning complex data challenges into scalable, production-ready solutions.
+I'm a **Data Engineer** and **AI Engineer** with **4+ years of professional experience** building **distributed data platforms**, **intelligent data pipelines**, and **AI-powered applications**. Specialized in Apache Kafka-based architectures, ETL/ELT workflows, and LLM integration using RAG and LangChain. Strong expertise in Python, SQL, distributed systems, NLP, and cloud platforms (AWS, GCP).
 
 ```python
 class BilelNasri:
     def __init__(self):
         self.role = "Data Engineer | AI Engineer"
-        self.location = "Tunisia 🇹🇳"
-        self.experience = "3+ years"
+        self.location = "Ariana, Tunisia 🇹🇳"
+        self.experience = "4+ years professional experience"
         self.passion = "Building distributed systems that scale"
         
     def current_focus(self):
         return [
-            "🔧 Distributed Data Pipelines with Apache Kafka",
+            "🔧 Distributed Data Processing with Apache Kafka & Spark",
             "🤖 LLM Applications with RAG, LangChain & LangGraph",
-            "⚡ Real-Time Data Processing with Spark & Airflow",
+            "⚡ Real-Time Streaming Pipelines with Airflow",
             "☁️ Cloud-Native Architecture (AWS, GCP)",
-            "🐳 Containerization & Orchestration (Docker, K8s)"
+            "📊 Observability with Prometheus, Grafana & Jaeger"
         ]
     
-    def looking_for(self):
-        return "Remote opportunities in Data Engineering or AI Engineering"
+    def contact_info(self):
+        return {
+            "email": "binasri1991@gmail.com",
+            "phone": "+216 96 321 618",
+            "looking_for": "Remote opportunities in Data Engineering or AI Engineering"
+        }
 ```
 
 ---
 
 ## 💼 Professional Journey
 
-### 🎯 Current: Freelance Data Engineer | AI Engineer
-**Building distributed data acquisition platforms and AI-powered analytics**
+### 🎯 Current: Freelance Data Engineer & AI Engineer
+**January 2023 – Present**
 
-- Architected **Kafka-based distributed pipeline** with worker pools, retry mechanisms, and observability stack
-- Implemented **cross-process synchronization** with asyncio and file locks for concurrent data processing
-- Built **RAG pipelines** and **multi-agent LLM systems** using LangChain and LangGraph
-- Deployed **real-time ETL workflows** with Airflow, Spark, and Kafka for streaming analytics
+#### Distributed Data Acquisition Platform (SignalForge)
+- Built **distributed pipeline** with coordinator, scraping workers, partitioned aggregators, and result reducer consuming Kafka topics
+- Implemented **Kafka-based job orchestration** with priority queues, exponential-backoff retries, and dead-letter queue routing
+- Developed **Redis-backed coordination** using atomic Lua scripts for job claiming, concurrency control, and idempotent session-state updates
+- Integrated **Playwright-based extraction** with multi-endpoint discovery and adaptive endpoint selection
+- Containerized services with **Docker Compose** and integrated observability with **Prometheus, OpenTelemetry, and Jaeger**
+- **Technologies:** Python, FastAPI, Kafka, Redis, Lua, Playwright, Docker, Prometheus, Jaeger, Hugging Face API
 
-### 🏢 Previous: Data Scientist | AI Engineer @ UbiAI
-**Developed influencer marketing intelligence with AI**
+#### Real-Time E-Commerce Analytics Dashboard (SalesStream)
+- Developed **ETL pipeline** using Airflow orchestration, Kafka stream processing, and Spark transformations
+- Integrated PostgreSQL data warehouse with **WebSocket-based dashboard** for live sales analytics
+- **Technologies:** Django, Apache Airflow, Kafka, Spark, PostgreSQL, Redis
 
-- Built **multi-agent LLM architecture** for automated influencer analysis
-- Implemented **RAG (Retrieval-Augmented Generation)** for contextual AI insights
-- Created **NLP model fine-tuning SaaS platform** achieving **30% workflow efficiency improvement**
-- Designed **serverless architecture** on AWS (Lambda, DynamoDB, SQS, Glue)
+---
+
+### 🏢 Data Scientist (NLP & Backend) — UbiAI
+**February 2022 – November 2022**
+
+#### NLP Model Fine-Tuning Platform (SaaS)
+- Built **Django REST Framework backend** (20+ API endpoints) for document management, question answering, and training workflows
+- Integrated **Haystack pipelines** combining BM25 retrieval with FARM/PyTorch reader models for domain-specific extractive QA
+- Implemented **active-learning workflows** converting user feedback into SQuAD-formatted training data for iterative fine-tuning
+- Developed **asynchronous processing** with Celery and Redis for document preprocessing, Elasticsearch indexing, and fine-tuning tasks
+- Deployed to **AWS EC2 with Docker Compose**; configured Linux server, Nginx reverse proxy, SSL, and GPU support
+- Implemented **GitHub Actions CI** with four linters (pylint, flake8, black, mypy)
+- **Technologies:** Python, Django, DRF, Haystack, FARM, PyTorch, spaCy, Celery, Redis, PostgreSQL, Elasticsearch, Docker, AWS EC2, Nginx, Django Channels, WebSockets, GitHub Actions
+
+---
+
+### 📚 Data Science Intern — FormaLab
+**July 2021 – August 2021**
+
+- Developed **AI-powered job recommendation platform** and sentiment analytics using ML techniques
+- **Technologies:** Python, BeautifulSoup, Scikit-Learn, Pandas, NLTK, LSTM
 
 ---
 
@@ -82,34 +108,49 @@ class BilelNasri:
 
 <div align="center">
 
-### Data Engineering
+### Data Engineering & Distributed Systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 
-### AI & Machine Learning
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### AI, NLP & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Haystack](https://img.shields.io/badge/Haystack-008CFF?style=for-the-badge&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+### Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black)
 
 </div>
 
@@ -174,35 +215,38 @@ class BilelNasri:
 
 ### 💻 Technical Focus
 ```
-Python              ████████████████  80%
-JavaScript          ███░░░░░░░░░░░░░  15%
-Shell/Docker/Other  █░░░░░░░░░░░░░░░   5%
+Python              ████████████████  85%
+JavaScript/TS       ██░░░░░░░░░░░░░░  10%
+Shell/SQL/Other     █░░░░░░░░░░░░░░░   5%
 ```
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Key Metrics
-- **🎯 Projects:** 15+ Production Systems
-- **⭐ Experience:** 3+ Years
-- **🔧 Focus:** Data Engineering + AI
-- **🌍 Location:** Tunisia
+- **🎯 Experience:** 4+ Years Professional
+- **📦 Projects:** 15+ Production Systems
+- **🔧 Specialization:** Data Engineering + AI
+- **🌍 Location:** Ariana, Tunisia
+- **📱 Phone:** +216 96 321 618
 
 </td>
 </tr>
 </table>
 
-### 🔥 Primary Tech Stack
+### 🔥 Core Tech Stack
 
-**Data Engineering:** Apache Kafka • Spark • Airflow • PostgreSQL • Redis • Elasticsearch
+**Data Engineering:** ETL/ELT Pipelines • Apache Kafka • Spark/PySpark • Apache Airflow • Apache NiFi • Hadoop • Stream Processing
 
-**AI/ML:** LangChain • LangGraph • Haystack • PyTorch • RAG Systems
+**Distributed Systems:** Kafka Consumer Groups • Distributed Workers • Job Orchestration • State Management • Idempotency • Retry/DLQ Patterns
 
-**Backend:** FastAPI • Django • Celery
+**AI/ML:** LLMs (GPT, LLaMA) • RAG • LangChain • LangGraph • NLP • BERT • RoBERTa • PyTorch • TensorFlow • Haystack • spaCy
 
-**Cloud/DevOps:** AWS • GCP • Docker • Kubernetes • GitHub Actions
+**Databases:** PostgreSQL • MySQL • Redis • MongoDB • Elasticsearch • BigQuery
 
-**Currently Learning:** Advanced RAG Patterns • Multi-Agent LLM Systems • Distributed Tracing
+**Cloud/DevOps:** AWS (Lambda, SQS, Glue, EC2) • GCP • Docker • Kubernetes • GitHub Actions • Linux Admin
+
+**Observability:** Prometheus • Grafana • Jaeger • Loki • Distributed Tracing
 
 </div>
 
@@ -210,11 +254,17 @@ Shell/Docker/Other  █░░░░░░░░░░░░░░░   5%
 
 ## 🎓 Certifications & Education
 
+**Certifications:**
 - 🏅 **LFCS** — Linux Foundation Certified System Administrator
-- 🏅 **Big Data Engineer 2021** — IBM Ecosystem
-- 🏅 **Google Data Analytics** — Coursera
-- 🏅 **Machine Learning From Basic to Advanced** — Udemy
-- 🎓 **Big Data & Business Intelligence** — Iteam University (2020-2022)
+- 🏅 **Big Data Engineer (2021)** — IBM Professional Certificate
+- 🏅 **Google Data Analytics** — Coursera Professional Certificate
+- 🏅 **Machine Learning: From Basic to Advanced** — Udemy
+- 🏅 **Artificial Intelligence** — FutureLearn
+
+**Education:**
+- 🎓 **Big Data & Business Intelligence** — Iteam University, Tunis (2020–2022)
+- 🎓 **Computer Science** — TekUp University, Ariana (2019–2020)
+- 🎓 **Electrical Engineering (License)** — ISET Béja (2015–2018)
 
 ---
 
@@ -234,7 +284,8 @@ I'm always open to discussing **Data Engineering**, **AI projects**, or **remote
 📧 **Email:** binasri1991@gmail.com  
 📱 **Phone:** +216 96 321 618  
 🔗 **LinkedIn:** [linkedin.com/in/bilel-n-2b9ba821](https://www.linkedin.com/in/bilel-n-2b9ba821/)  
-💼 **Portfolio:** [biso1991.github.io/Myprofile](https://biso1991.github.io/Myprofile/)
+💼 **Portfolio:** [biso1991.github.io/Myprofile](https://biso1991.github.io/Myprofile/)  
+🗂️ **Data Engineering Portfolio:** [github.com/biso1991/-Data-engineer-Portofolio](https://github.com/biso1991/-Data-engineer-Portofolio)
 
 ---
 
