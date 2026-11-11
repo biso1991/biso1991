@@ -90,7 +90,7 @@ class BilelNasri:
 - Integrated **Haystack pipelines** combining BM25 retrieval with FARM/PyTorch reader models for domain-specific extractive QA
 - Implemented **active-learning workflows** converting user feedback into SQuAD-formatted training data for iterative fine-tuning
 - Developed **asynchronous processing** with Celery and Redis for document preprocessing, Elasticsearch indexing, and fine-tuning tasks
-- Deployed to **AWS EC2 with Docker Compose**; configured Linux server, Nginx reverse proxy, SSL, and GPU support
+- Deployed to **AWS EC2 with Docker Compose**; configured **Linux server, Nginx reverse proxy, SSL/TLS, AWS security settings, and GPU support** for fine-tuning
 - Implemented **GitHub Actions CI** with four linters (pylint, flake8, black, mypy)
 - **Technologies:** Python, Django, DRF, Haystack, FARM, PyTorch, spaCy, Celery, Redis, PostgreSQL, Elasticsearch, Docker, AWS EC2, Nginx, Django Channels, WebSockets, GitHub Actions
 
@@ -140,12 +140,20 @@ class BilelNasri:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Backend & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+### System Administration & Operations
+![Linux Admin](https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-00ADD8?style=for-the-badge&logo=probot&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -236,17 +244,21 @@ Shell/SQL/Other     █░░░░░░░░░░░░░░░   5%
 
 ### 🔥 Core Tech Stack
 
-**Data Engineering:** ETL/ELT Pipelines • Apache Kafka • Spark/PySpark • Apache Airflow • Apache NiFi • Hadoop • Stream Processing
+**Data Engineering:** ETL/ELT Pipelines • Apache Kafka • Spark/PySpark • Apache Airflow • Apache NiFi • Hadoop • Stream Processing • Data Integration
 
-**Distributed Systems:** Kafka Consumer Groups • Distributed Workers • Job Orchestration • State Management • Idempotency • Retry/DLQ Patterns
+**Distributed Systems:** Kafka Consumer Groups • Distributed Workers • Job Orchestration • State Management • Idempotency • Retry/DLQ Patterns • Cross-Process Synchronization
 
-**AI/ML:** LLMs (GPT, LLaMA) • RAG • LangChain • LangGraph • NLP • BERT • RoBERTa • PyTorch • TensorFlow • Haystack • spaCy
+**AI/ML:** LLMs (GPT, LLaMA) • RAG • LangChain • LangGraph • NLP • BERT • RoBERTa • PyTorch • TensorFlow • Haystack • spaCy • NLTK • Model Fine-Tuning
 
-**Databases:** PostgreSQL • MySQL • Redis • MongoDB • Elasticsearch • BigQuery
+**Databases:** PostgreSQL • MySQL • MariaDB • Redis • MongoDB • Elasticsearch • BigQuery • ClickHouse
 
-**Cloud/DevOps:** AWS (Lambda, SQS, Glue, EC2) • GCP • Docker • Kubernetes • GitHub Actions • Linux Admin
+**Cloud/DevOps:** AWS (Lambda, SQS, Glue, EC2) • GCP (BigQuery) • Docker • Kubernetes • GitHub Actions • CI/CD Pipelines • Linux Administration • Bash/Shell Scripting • Git
 
-**Observability:** Prometheus • Grafana • Jaeger • Loki • Distributed Tracing
+**Backend & Development:** Python • FastAPI • Django • Flask • Celery • Playwright • Selenium • Scrapy • RESTful APIs • WebSocket • Java • R • Makefile
+
+**System Administration:** Linux Server Configuration • Nginx • SSL/TLS • System Troubleshooting • Performance Optimization • Security Configuration
+
+**Observability:** Prometheus • Grafana • Jaeger • Loki • Distributed Tracing • Structured Logging • Metrics & Alerting
 
 </div>
 
