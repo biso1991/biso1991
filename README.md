@@ -153,26 +153,45 @@ class BilelNasri:
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity & Stats
 
 <div align="center">
 
-### 💻 Technical Focus
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-Python           ████████████████████░░░░░  80%
-JavaScript       ████░░░░░░░░░░░░░░░░░░░░░  15%
-Shell Scripts    █░░░░░░░░░░░░░░░░░░░░░░░░   5%
+### 💻 Technical Focus
+```
+Python              ████████████████  80%
+JavaScript          ███░░░░░░░░░░░░░  15%
+Shell/Docker/Other  █░░░░░░░░░░░░░░░   5%
 ```
 
-### 🔥 Current Stack
-**Most Used:** Python • FastAPI • Django • Kafka • Docker  
-**Learning:** LangChain • LangGraph • Advanced RAG Patterns
+</td>
+<td width="50%" valign="top">
 
 ### 📊 Key Metrics
-🎯 **15+ Projects** | ⭐ **Active Contributor** | 🚀 **3+ Years Experience**
+- **🎯 Projects:** 15+ Production Systems
+- **⭐ Experience:** 3+ Years
+- **🔧 Focus:** Data Engineering + AI
+- **🌍 Location:** Tunisia
 
-<sub>💡 Stats will auto-populate within 24 hours as GitHub indexes the profile</sub>
+</td>
+</tr>
+</table>
+
+### 🔥 Primary Tech Stack
+
+**Data Engineering:** Apache Kafka • Spark • Airflow • PostgreSQL • Redis • Elasticsearch
+
+**AI/ML:** LangChain • LangGraph • Haystack • PyTorch • RAG Systems
+
+**Backend:** FastAPI • Django • Celery
+
+**Cloud/DevOps:** AWS • GCP • Docker • Kubernetes • GitHub Actions
+
+**Currently Learning:** Advanced RAG Patterns • Multi-Agent LLM Systems • Distributed Tracing
 
 </div>
 
@@ -210,6 +229,6 @@ I'm always open to discussing **Data Engineering**, **AI projects**, or **remote
 
 ### 💡 "Building distributed systems that scale, one pipeline at a time."
 
-![Profile Views](https://komarev.com/ghpvc/?username=biso1991&color=F85D7F&style=for-the-badge)
+<sub>⭐ Open to remote opportunities worldwide | 🇹🇳 Based in Tunisia</sub>
 
 </div>
