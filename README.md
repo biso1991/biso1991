@@ -25,7 +25,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://biso1991.github.io/Myprofile/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binasri1991@gmail.com)
 
-📍 Ariana, Tunisia | 📱 +216 96 321 618 | 💼 **Freelancer | Open to Opportunities**
+📍 Ariana, Tunisia | 📱 +216 27 870 216 | 💼 **Freelancer | Open to Opportunities**
 
 </div>
 
@@ -55,7 +55,7 @@ class BilelNasri:
     def contact_info(self):
         return {
             "email": "binasri1991@gmail.com",
-            "phone": "+216 96 321 618",
+            "phone": "+216 27 870 216",
             "looking_for": "Remote opportunities in Data Engineering or AI Engineering"
         }
 ```
@@ -228,7 +228,7 @@ Shell/SQL/Other     █░░░░░░░░░░░░░░░   5%
 - **📦 Projects:** 15+ Production Systems
 - **🔧 Specialization:** Data Engineering + AI
 - **🌍 Location:** Ariana, Tunisia
-- **📱 Phone:** +216 96 321 618
+- **📱 Phone:** +216 27 870 216
 
 </td>
 </tr>
@@ -282,7 +282,7 @@ I'm always open to discussing **Data Engineering**, **AI projects**, or **remote
 
 ### Contact Me:
 📧 **Email:** binasri1991@gmail.com  
-📱 **Phone:** +216 96 321 618  
+📱 **Phone:** +216 27 870 216  
 🔗 **LinkedIn:** [linkedin.com/in/bilel-n-2b9ba821](https://www.linkedin.com/in/bilel-n-2b9ba821/)  
 💼 **Portfolio:** [biso1991.github.io/Myprofile](https://biso1991.github.io/Myprofile/)  
 🗂️ **Data Engineering Portfolio:** [github.com/biso1991/-Data-engineer-Portofolio](https://github.com/biso1991/-Data-engineer-Portofolio)
